@@ -1,0 +1,21 @@
+.header-container{
+	background: #18BC9C;
+	color: #fff;
+	padding-top: 80px;
+	padding-bottom: 50px;
+}
+
+.header-img{
+	width: 25%;
+	height: 25%;
+}
+
+.header-title{
+	font-size: 60px;
+}
+
+.header-subtitle{
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
